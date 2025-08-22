@@ -3,6 +3,7 @@ The program checks whether a user-entered password is strong or weak based on co
 
 # How It Works
 ---
+
 Takes input from the user (Scanner) as the password.
 
 Validates strength using the method isStrengthPassword(String password):
@@ -16,6 +17,7 @@ Must contain at least one lowercase letter.
 Must contain at least one digit (0–9).
 
 Must contain at least one special character (anything not a letter or digit).
+
 ---
 # Program
 ```python
